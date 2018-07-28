@@ -1,6 +1,6 @@
 # Site settings
 title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+SEOTitle: null的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 1213800764@gmail.com
 description: "Every failure is leading towards success."
@@ -103,7 +103,7 @@ friends: [
         href: "http://zhengwuyang.com"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com/"
     },{
         title: "Apple",
         href: "https://apple.com"
